@@ -1,6 +1,7 @@
 ﻿# MarginCalckWin
 Криптовалютный Windows-калькулятор</br>
 ---
+[![Python](https://img.shields.io/badge/-Python-464641?style=flat-square&logo=Python)](https://www.python.org/)</br>
 Стек: Python, Tkinker, pywhatkit, pyautogui</br></br>
 Собрать проект командой:</br>
 pyinstaller main.py --onefile --name MarginCalck --icon "dh.ico" --noconsole</br>
