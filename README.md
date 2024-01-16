@@ -1,7 +1,8 @@
 ﻿# MarginCalckWin
 Криптовалютный Windows-калькулятор</br>
 ---
-Стек: Python, Kivy, Buildozer
+Стек: Python, Kivy, Buildozer</br>
+Установить buildozer и собрать проект:</br>
 pip install --user buildozer</br>
 git clone https://github.com/kivy/buildozer</br>
 cd buildozer</br>
