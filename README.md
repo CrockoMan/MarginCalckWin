@@ -5,6 +5,10 @@
 Windows-калькулятор для торговли криптовалютами. Позволяет рассчитать размер позиции в зависимоcти от точки входа, кредитного плеча.</br>
 Стек: Python, Tkinker, pyinstaller</br></br>
 
+Клонировать репозиторий:</br>
+git clone git@github.com:CrockoMan/MarginCalckWin.git</br>
+перейти в каталог проекта</br>
+cd MarginCalckWin</br>
 Собрать проект командой:</br>
 pyinstaller main.py --onefile --name MarginCalck --icon "dh.ico" --noconsole</br>
 Ввод данных и результат вычислений:</br>
