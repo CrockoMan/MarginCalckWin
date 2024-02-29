@@ -11,6 +11,7 @@ git clone git@github.com:CrockoMan/MarginCalckWin.git</br>
 cd MarginCalckWin</br>
 Собрать проект командой:</br>
 pyinstaller main.py --onefile --name MarginCalck --icon "dh.ico" --noconsole</br>
+После ввода данных позиции, TP, SL, Risk вычисляется размер позиции Отношение Sl/TP, максимальное плечо, огбъём позиции usd и coin </br>
 Ввод данных и результат вычислений:</br>
 ![Ввод данных](https://github.com/CrockoMan/MarginCalckWin/blob/main/Calck.jpg)</br>
 Автор: [К.Гурашкин](<https://github.com/CrockoMan>)
